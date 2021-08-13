@@ -1,0 +1,12 @@
+{
+	"url": "http://localhost:8080",
+    "keycloak_url": "http://localhost:8090",
+    "client_id": "example-client",
+    "client_secret": "8b06aab8-ce7c-4740-afdf-3b9dbf901971",
+    "realm": "opensrp",
+    "keycloak_access_token": "http://localhost:8090/auth/realms/opensrp/protocol/openid-connect/token",
+    "grant_type": "password",
+    "username": "john",
+    "password": "doe123",
+    "scope": "openid"
+}
